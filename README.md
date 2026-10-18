@@ -164,6 +164,7 @@
 - [PaddleOCR 3.0 (2024/2025)](https://github.com/PaddlePaddle/PaddleOCR) - Advanced OCR with PP-StructureV3 document parsing, 13% accuracy improvement, supports 80+ languages
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Production-grade ETL for transforming complex documents into structured formats, with open-source API
 - [Marker](https://github.com/datalab-to/marker) - High-accuracy PDF→Markdown/JSON/HTML conversion, specialized for tables/formulas/code blocks with benchmark scripts
+- [Chandra OCR 2 (datalab.to, 2026)](https://github.com/datalab-to/chandra) - State-of-the-art OCR model converting images and PDFs into structured HTML/Markdown/JSON with full layout preservation, excelling at complex tables, handwritten notes, mathematical equations, forms, and 90+ languages; tops external olmOCR benchmarks and ships a pip-installable `chandra-ocr` package with HuggingFace local and vLLM server inference modes (datalab.to, the team behind Marker, 12.5K+ stars, Apache 2.0 code / OpenRAIL-M model license)
 - [S2ORC doc2json (AllenAI)](https://github.com/allenai/s2orc-doc2json) - Large-scale PDF/LaTeX/JATS parsing to standardized JSON for millions of papers
 - [GROBID](https://github.com/kermitt2/grobid) - Machine learning software for extracting structured metadata from scholarly documents
 - [Science-Parse / SPv2 (AllenAI)](https://github.com/allenai/science-parse) - Parse scientific papers to structured fields (title/author/sections/references)
