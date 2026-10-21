@@ -874,6 +874,7 @@
 
 ### Electrical & Electronics Engineering
 - [kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design that turn Claude Code, Codex, Gemini CLI, and other coding agents into full electronics design assistants; parses schematics and PCB layouts, builds power trees, audits connectors/ESD protection, validates passive networks, runs SPICE simulation, sources components from major distributors, and prepares boards for fabrication (aklofas, 974+ stars, MIT License, 2026)
+- [Circuit Training / AlphaChip (Google Research, Nature 2021)](https://github.com/google-research/circuit_training) - Open-source framework behind AlphaChip, the first ML system to design superhuman chip floorplans used in production Google TPU blocks; trains edge-based graph neural networks with distributed PPO and fine-tunes with simulated annealing to place macros under timing, congestion, and density constraints, generalizing across chip netlists (Google Research, 1.7K+ stars, Apache 2.0)
 
 ---
 
