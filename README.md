@@ -712,6 +712,7 @@
 - [QuPath](https://github.com/qupath/qupath) - Open-source bioimage analysis platform for digital pathology and research, featuring AI-powered cell detection, tissue classification, and whole-slide image analysis with extensible scripting and plugin architecture (1.3K+ stars, actively maintained)
 - [BioImage.IO](https://github.com/bioimage-io/core-bioimage-io-python) - Community-driven model zoo and deployment infrastructure for AI-powered bioimage analysis, enabling standardized sharing, validation, and cross-platform execution of deep learning models across Fiji, Ilastik, napari, and other scientific imaging tools (EPFL, EMBL, and global collaborators, actively maintained)
 - [CAREamics (Jug Lab, EMBL / Human Technopole)](https://github.com/CAREamics/careamics) - Deep-learning library for AI microscopy image restoration implementing CARE (content-aware restoration, Nature Methods 2018), Noise2Void/Noise2Fast self-supervised denoising, and related pixel-restoration algorithms as a unified, pip-installable training/inference API on a PyTorch Lightning backend, with Fiji plugin and napari integration for denoising, deconvolution, super-resolution, and virtual-staining workflows across light and electron microscopy (successor to CSBDeep, 157+ stars, BSD-3-Clause, actively maintained, 2023-2026)
+- [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master) - Biophysical reaction-diffusion transport modeling, regrowth kinetics, and clinical survival analysis for EGFR-mutant lung adenocarcinoma.
 
 ### ⚛ Chemistry & Materials
 
